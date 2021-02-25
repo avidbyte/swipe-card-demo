@@ -1,0 +1,7 @@
+server:
+  port: 8099
+
+udp:
+  port: 20000
+  maxUdpDataSize: 128
+
